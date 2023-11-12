@@ -4,7 +4,7 @@ This simple web app displays a slideshow of images with a fade-in effect. It all
 
 ## 🖼️ App Preview
 
-![App Preview](./slides/image1.jpg)
+[![App Preview](./slides/image1.jpg)](https://jen67.github.io/Cousera-javascript-course/simple-slide-show/index.html)
 
 👆 Click the image above to view the live slideshow.
 
