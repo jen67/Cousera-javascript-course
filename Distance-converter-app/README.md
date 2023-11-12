@@ -4,6 +4,10 @@
 
 This is a simple web app that allows users to convert distances between miles and kilometers. The app provides a user-friendly interface for quick and easy conversions.
 
+## App Preview
+
+[![App Preview](./App-img.png)](https://jen67.github.io/Cousera-javascript-course/Distance-converter-app/index.html)
+
 ## Usage
 
 1. **Select Conversion Type:**
