@@ -6,7 +6,8 @@ This is a simple web app that allows users to convert distances between miles an
 
 ## App Preview
 
-[![App Preview](./App-img.png)](https://jen67.github.io/Cousera-javascript-course/Distance-converter-app/index.html)
+[![App Preview](./App-img.png)](https://jen67.github.io/Cousera-javascript-course/Distance-converter-app/index.html)  
+*Click the image to access the live site.*
 
 ## Usage
 
