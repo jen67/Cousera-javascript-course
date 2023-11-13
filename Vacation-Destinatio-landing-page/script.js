@@ -34,7 +34,7 @@
         const image = document.createElement('img');
         image.setAttribute('alt', name);
 
-        const constantPhotoUrl = '/images/signpost.jpg';
+        const constantPhotoUrl = './images/signpost.jpg';
 
         card.appendChild(image);
 
