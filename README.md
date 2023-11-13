@@ -15,3 +15,9 @@ This repository contains tasks and projects from the Coursera JavaScript course 
    [👉 ![Click to View Live Slideshow](./simple-slide-show/slides/image1.jpg)](https://jen67.github.io/Cousera-javascript-course/simple-slide-show/index.html)
 
 - **👆 Click the image above to view the live slideshow.**
+
+### 3. Vacation Destination Card Marker
+
+   [👉 ![Click to View Live Slideshow](./Vacation-Destination-landing-page/images/webpage.png)](https://jen67.github.io/Cousera-javascript-course/Vacation-Destination-landing-page/index.html)
+
+- **👆 Click the image above to view the live slideshow.**
