@@ -66,25 +66,36 @@ textarea,
     box-sizing: border-box;
     padding: 0.6rem;
     outline: none;
+    border: transparent;
+    border-radius: 0.2rem;
 }
 
+input,
+textarea {
+    background-color: #f1f2f9;
 
+}
 
 form button {
+    border: none;
     width: 100%;
     padding: 0.6rem;
     border-radius: 5px;
-    border: none;
     cursor: pointer;
+    background-color: cornflowerblue;
+    color: white;
+    font-weight: 600;
+    text-transform: uppercase;
 }
 
 form button:hover {
-    border: 1px groove #14632d;
+    border: 1px groove rgb(16, 65, 32);
+    box-shadow: 0 0 10px #e9ebf1;
 }
 
 .card {
     padding: 20px;
-    background-color: #eeeaea;
+    background-color: white;
     margin-bottom: 20px;
     border-radius: 10px;
 }
