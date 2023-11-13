@@ -2,6 +2,8 @@
 
 [![The webpage](./images/webpage.png)](https://jen67.github.io/Cousera-javascript-course/Vacation-Destination-landing-page/index.html)
 
+👆 Click the image above to view the live slideshow.
+
 ## Overview 🚀
 
 Welcome to the Vacation Destinations WishList app! 🌟 This JavaScript-powered web application allows users to create a personalized wish list of dream vacation destinations. Use the provided form to add your desired locations, complete with names, locations, photos, and descriptions. Your wish list will be dynamically displayed with interactive cards for each destination.
