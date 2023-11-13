@@ -1,18 +1,23 @@
-h1, h2, h3, h4, h5, h6{
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     padding: 0;
     margin: 0;
 }
 
-img{
+img {
     max-width: 100%;
 }
 
-body{
+body {
     font-family: Arial;
     color: #333;
 }
 
-header{
+header {
     padding: 50px;
     background-color: cornflowerblue;
     color: white;
@@ -20,7 +25,7 @@ header{
     margin-bottom: 20px;
 }
 
-main{
+main {
     display: flex;
     justify-content: space-between;
     max-width: 800px;
@@ -28,49 +33,80 @@ main{
     margin: auto;
 }
 
-main form{
+main form {
     width: 40%;
 }
 
-main article{
+main article {
     width: 45%;
 }
 
-h1, h2, h3, h4, p{
+h1,
+h2,
+h3,
+h4,
+p {
     margin-bottom: 1rem;
 }
 
-label{
+label {
     display: block;
     margin-bottom: 1em;
+    color: #020420;
+    font-weight: bold;
 }
 
-input, textarea, .destination_details button{
-   display: block;
-   width: 100%;
-   margin-bottom: 1em;
-   border: 1px solid #666;
-   box-sizing: border-box;
-
+input,
+textarea,
+.destination_details button {
+    display: block;
+    width: 100%;
+    margin-bottom: 1em;
+    border: 1px solid #666;
+    box-sizing: border-box;
+    padding: 0.6rem;
+    outline: none;
 }
 
-#title{
+
+
+form button {
+    width: 100%;
+    padding: 0.6rem;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+form button:hover {
+    border: 1px groove #14632d;
+}
+
+.card {
+    padding: 20px;
+    background-color: #eeeaea;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+#title {
     text-align: center
 }
 
-@media screen and (max-width: 600px){
-    header{
+@media screen and (max-width: 600px) {
+    header {
         word-wrap: break-word;
     }
-    main{
+
+    main {
         flex-direction: column-reverse;
     }
 
-    main form{
+    main form {
         width: 100%;
     }
 
-    main article{
+    main article {
         width: 100%;
     }
 }
