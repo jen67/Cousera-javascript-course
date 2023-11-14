@@ -17,6 +17,8 @@ I followed along Kelvin Powells tutorial and make some changes.
 
 [![The webpage](./scroller-effect.png)](https://jen67.github.io/Cousera-javascript-course/scroll-effect/index.html)
 
+👆 Click the image above to view the live demo.
+
 ## Features
 
 - Responsive design for various screen sizes.
