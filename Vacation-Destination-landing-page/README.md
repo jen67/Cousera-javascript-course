@@ -2,7 +2,7 @@
 
 [![The webpage](./images/webpage.png)](https://jen67.github.io/Cousera-javascript-course/Vacation-Destination-landing-page/index.html)
 
-👆 Click the image above to view the live slideshow.
+👆 Click the image above to view the live site.
 
 ## Overview 🚀
 
