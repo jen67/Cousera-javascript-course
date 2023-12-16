@@ -15,9 +15,7 @@ for (var i = 0; i < menuLinks.length; i++) {
         e.preventDefault();
         thisMenu = this.parentNode.querySelector("ul");
         if (thisMenu.classList.contains("hide-menu")) {
-            for (var i = 0; i < subMenus.length; i++) {
-              subMenus[i].className = "hide-menu";
-            }
+            hideSubmenus();
             thisMenu.className = "show-menu";
         }
 
