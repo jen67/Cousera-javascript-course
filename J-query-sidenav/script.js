@@ -1,5 +1,4 @@
 const subMenus = document.querySelectorAll("ul li ul");
-const menuItems = document.querySelectorAll("ul li ul li ");
 
 for (var i = 0; i < subMenus.length; i++) {
     subMenus[i].className = "hide-menu";
