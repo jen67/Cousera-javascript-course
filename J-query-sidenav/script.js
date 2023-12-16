@@ -1,8 +1,5 @@
-const toggleNav = querySelectorAll("ul li");
-const navlinks = querySelectorAll("ul li ul li");
+const subMenus = document.querySelectorAll("ul li ul");
 
-toggleNav.forEach((item) => {
-  item.addEventListener("click", (e) => {
-    e.target.classList.toggle("show");
-  });
-});
+for (var i = 0; i < subMenus.length; i++) {
+    subMenus[i].className = "hide-menu";
+}
