@@ -10,8 +10,7 @@ const menuLinks = document.querySelectorAll(".menulink");
 for (var i = 0; i < menuLinks.length; i++) { 
     menuLinks[i].addEventListener("click", function (e) { 
         e.preventDefault();
-        subMenus.forEach((subMenu) => {
-            subMenu.classList.toggle("show-menu"); 
+        thisMenu = this.parentNode.querySelectorAll("ul");
+        alert()
         });
-    });
-}
+    }
