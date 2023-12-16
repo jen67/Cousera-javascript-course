@@ -11,7 +11,7 @@ for (var i = 0; i < menuLinks.length; i++) {
     menuLinks[i].addEventListener("click", function (e) { 
         e.preventDefault();
         subMenus.forEach((subMenu) => {
-            subMenu.toggle("show-menu"); 
+            subMenu.classList.toggle("show-menu"); 
         });
     });
 }
