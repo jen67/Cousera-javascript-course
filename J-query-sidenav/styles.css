@@ -24,11 +24,13 @@ article {
 
 h1 {
     height: 9.375rem;
-    background: url("http://placekitten.com/525/150") no-repeat;
+    background: url("https://picsum.photos/525/150?random=1") no-repeat;
     line-height: 150px;
     text-align: center;
     color: #fff;
 }
+
+
 
 ul {
     list-style-type: none;
