@@ -32,3 +32,13 @@
 // Jquery
 
 $('ul li ul').hide();
+
+$('.menulink').click(function () {
+  var thisMenu = $(this).next('ul');
+
+  if (thisMenu.is(':visible')) {
+    thisMenu.hide();
+  } else {
+    thisMenu.show();
+  }
+});
