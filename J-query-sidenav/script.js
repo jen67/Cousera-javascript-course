@@ -31,4 +31,4 @@
 
 // Jquery
 
-$('ul li ul').css("display", "none");
+$('ul li ul').hide();
