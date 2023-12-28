@@ -30,10 +30,10 @@
 
 
 // Jquery
-(function () {
+$(function () {
   
   "use strict";
-  
+
 $('ul li ul').hide();
 
 $('.menulink').click(function () {
@@ -44,4 +44,4 @@ $('.menulink').click(function () {
   thisMenu.toggle();
 });
 
-})();
+});
